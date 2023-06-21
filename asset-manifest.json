@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/FrontendDevReactjs-1-MuhammadFaaiz/static/css/main.adbc336d.css",
+    "main.js": "/FrontendDevReactjs-1-MuhammadFaaiz/static/js/main.40efb819.js",
+    "index.html": "/FrontendDevReactjs-1-MuhammadFaaiz/index.html",
+    "main.adbc336d.css.map": "/FrontendDevReactjs-1-MuhammadFaaiz/static/css/main.adbc336d.css.map",
+    "main.40efb819.js.map": "/FrontendDevReactjs-1-MuhammadFaaiz/static/js/main.40efb819.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.adbc336d.css",
+    "static/js/main.40efb819.js"
+  ]
+}
