@@ -8,4 +8,4 @@ To Start this project please use yarn:
 
  `3. Run the app using command: yarn start`
 
- `4. Deploy Link: https://FaaizRamaza.github.io/FrontendDevReactjs-1-MuhammadFaaizRamazaPutra`
+ `4. Deploy Link: `
